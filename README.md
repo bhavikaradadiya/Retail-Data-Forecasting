@@ -44,12 +44,19 @@ Two groups of participants compared:
 Performance analyzed on decision accuracy, speed, and confidence using descriptive statistics and t-tests.
 
 <H3>🧰 Tools & Technologies</H3>
-Category	Tools Used
-"/n" Programming	Python (pandas, numpy, statsmodels, xgboost, keras, matplotlib)
+
+<B>Category	Tools Used</B>
+
+ Programming	Python (pandas, numpy, statsmodels, xgboost, keras, matplotlib)
+ 
 Visualization	Tableau Desktop
+
 Statistical Testing	SciPy, pandas
+
 Survey Tool	Google Forms
+
 Environment	Google Colab / Jupyter Notebook
+
 <H3>📊 Key Findings</H3>
 
 XGBoost achieved the lowest RMSE, MAE, and MAPE values → confirming its superiority over ARIMA and LSTM.
