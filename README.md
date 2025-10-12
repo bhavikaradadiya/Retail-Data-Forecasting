@@ -92,9 +92,9 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-Run model notebooks in /forecasting_models/ sequentially.
+Run the notebook  main / Retail_Sales_Forecasting_By_Model.ipynb
 
-Open Tableau → import /dashboard/tableau_data_source.csv.
+Open Tableau → Live Tableau Dashboard → [View Here] (https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Retail_sales_17571698112880/Dashboard1)
 
 Replicate dashboards for trend and performance analysis.
 
