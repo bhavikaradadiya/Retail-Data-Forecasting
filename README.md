@@ -96,6 +96,8 @@ Run the notebook  main / Retail_Sales_Forecasting_By_Model.ipynb
 
 Open Tableau → Live Tableau Dashboard → [View Here] (https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Retail_sales_17571698112880/Dashboard1)
 
+![Dashboard Overview](https://github.com/bhavikaradadiya/Retail-Data-Forecasting/blob/main/dashboard_overview.png)
+
 Replicate dashboards for trend and performance analysis.
 
 <H3>🏁 Acknowledgment</H3>
