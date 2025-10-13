@@ -17,6 +17,11 @@ To integrate the best-performing model (XGBoost) into Tableau for visual insight
 
 To assess whether visual dashboards improve decision-making accuracy, confidence, and speed compared to raw tabular data.
 
+<H3>📘 Research Flow Diagram</H3>
+
+
+
+
 <H3>🧠 Methodology </H3>
 
 The research follows a two-phase approach:
