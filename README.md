@@ -19,7 +19,7 @@ To assess whether visual dashboards improve decision-making accuracy, confidence
 
 <H3>📘 Research Flow Diagram</H3>
 
-![Research Flow Diagram](https://github.com/bhavikaradadiya/Retail-Data-Forecasting/blob/main/Research Flow Diagram.png)
+![Research Flow Diagram](https://github.com/bhavikaradadiya/Retail-Data-Forecasting/blob/main/Research%20Flow%20Diagram.png)
 
 
 <H3>🧠 Methodology </H3>
