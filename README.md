@@ -48,6 +48,11 @@ Two groups of participants compared:
 
 Performance analyzed on decision accuracy, speed, and confidence using descriptive statistics and t-tests.
 
+<B>User Testing Overview</B>
+
+Primary user testing was conducted using a Google Form experiment to compare decision-making performance between Tableau dashboard users and raw data table users.  
+(For privacy reasons, the form and raw responses are not publicly shared.)
+
 <H3>🧰 Tools & Technologies</H3>
 
 <B>Category	Tools Used</B>
