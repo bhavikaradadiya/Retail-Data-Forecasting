@@ -18,9 +18,7 @@ To integrate the best-performing model (XGBoost) into Tableau for visual insight
 To assess whether visual dashboards improve decision-making accuracy, confidence, and speed compared to raw tabular data.
 
 <H3>📘 Research Flow Diagram</H3>
-
-![Research Flow Diagram](https://github.com/bhavikaradadiya/Retail-Data-Forecasting/blob/main/Research%20Flow%20Diagram.png)
-
+<img width="622" height="693" alt="Research Flow Diagram" src="https://github.com/user-attachments/assets/f51f8df7-2b62-4058-a841-7533e576c984" />
 
 <H3>🧠 Methodology </H3>
 
@@ -106,7 +104,8 @@ Run the notebook  main / Retail_Sales_Forecasting_By_Model.ipynb
 
 Open Tableau → Live Tableau Dashboard → [View Here] (https://public.tableau.com/app/profile/bhavikaben.radadiya/viz/Retail_sales_17571698112880/Dashboard1)
 
-![Dashboard Overview](https://github.com/bhavikaradadiya/Retail-Data-Forecasting/blob/main/dashboard.png)
+<img width="1908" height="920" alt="dashboard" src="https://github.com/user-attachments/assets/49a11624-f030-4177-979a-fbed58114f7c" />
+
 
 Replicate dashboards for trend and performance analysis.
 
